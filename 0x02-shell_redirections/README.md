@@ -1,1 +1,1 @@
-The project is the basics bash input and out put commands
+0x02. Shell, I/O Redirections and filters
