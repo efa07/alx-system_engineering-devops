@@ -1,0 +1,1 @@
+The project is the basics bash input and out put commands
