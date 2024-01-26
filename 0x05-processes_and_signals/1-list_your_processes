@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# mini top or htop tool
+
+ps -auxf
