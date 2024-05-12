@@ -30,12 +30,13 @@ Incident Response Training: Provide training to the team on incident response pr
 
 ## Tasks to Address the Issue:
 
-Update load balancer configuration to evenly distribute traffic.
-Implement automated load balancer testing and validation.
-Enhance monitoring and alerting for load balancing and performance issues.
-Conduct regular load testing to identify and address potential bottlenecks.
-Document incident response procedures and provide training to the team.
-Conclusion:
+Update load balancer configuration to evenly distribute traffic:
+Implement automated load balancer testing and validation:
+Enhance monitoring and alerting for load balancing and performance issues:
+Conduct regular load testing to identify and address potential bottlenecks:
+Document incident response procedures and provide training to the team:
+
+## Conclusion:
 The web stack debugging outage was caused by a misconfigured load balancer, resulting in intermittent downtime and slow response times. Through collaborative efforts, the issue was successfully resolved by correcting the load balancer configuration. To prevent similar incidents in the future, corrective measures were implemented, including enhanced monitoring, load testing, and incident response training.
 
 By learning from this outage, our team has become better equipped to handle similar challenges, ensuring the continued reliability and performance of our web application.
