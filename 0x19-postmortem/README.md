@@ -30,7 +30,7 @@ Incident Response Training: Provide training to the team on incident response pr
 
 ## Tasks to Address the Issue:
 
-Update load balancer configuration to evenly distribute traffic:
+Update load balancer configuration to evenly distribute traffic.\n
 Implement automated load balancer testing and validation:
 Enhance monitoring and alerting for load balancing and performance issues:
 Conduct regular load testing to identify and address potential bottlenecks:
