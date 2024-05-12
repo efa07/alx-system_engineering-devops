@@ -18,7 +18,8 @@ Incident Resolution: After extensive collaboration and analysis, the root cause 
 Root Cause and Resolution:
 Root Cause: The root cause was identified as a misconfigured load balancer that was routing traffic unevenly to the application servers. This created an imbalance in the request processing, leading to performance degradation and intermittent outages.
 
-## Resolution: The load balancer configuration was corrected to evenly distribute traffic across the available application servers. Additionally, monitoring and alerting were enhanced to quickly detect any future load balancing issues.
+## Resolution: 
+The load balancer configuration was corrected to evenly distribute traffic across the available application servers. Additionally, monitoring and alerting were enhanced to quickly detect any future load balancing issues.
 
 ## Corrective and Preventative Measures:
 
