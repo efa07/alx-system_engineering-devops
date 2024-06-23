@@ -3,12 +3,11 @@ Welcome to the ALX System Engineering & DevOps GitHub repository! This repositor
 
 ## Table of Contents
 * About
-* Projects
-* Installation
-* Contributing
-* License
-* Contact
-* About
+* [Projects](#Projects)
+* [Installation](#Installation)
+* [Contributing](#Contributing)
+* [License](#License)
+* [Contact](#Contact)
 
 This repository is part of the ALX Software Engineering Program and focuses on System Engineering and DevOps. The projects in this repo aim to teach key skills required for efficient system management and automation, including scripting, process management, and network configuration.
 
